@@ -1,4 +1,4 @@
-title: Hello, world! I'm Tim Parker.
+title: Tim Parker
 description: > # this means to ignore newlines until "baseurl:"
   A description.
 permalink: ':title/'
@@ -9,12 +9,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Tim Parker # add your name
 author-img: tim-parker.png # add your photo
-about-author: I'm me. # add description
+about-author: I like working with data and making software tools. I enjoy solving interesting problems.  # add description
 social-github: tparkerd # add your Github handle
 social-linkedin: timparkerd # add your Linkedin handle
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-email: # add your Email address
+social-email: tim.parkerd@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
